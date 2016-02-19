@@ -4,10 +4,7 @@ The [TrueCostCollaboratory.org](http://www.truecostcollaboratory.org/) and [true
 
 ##TODO List
 
-<<<<<<< HEAD
-Make a timeline for coal production and/pr popup showing simple line graph of coal production over time.
-=======
 Make a timeline for coal production and/pr popup showing simple line graph of coal production over time.
 
 .
->>>>>>> parent of 7d23bfa... more edit fixes
+
