@@ -4,6 +4,6 @@ The [TrueCostCollaboratory.org](http://www.truecostcollaboratory.org/) and [true
 
 ##TODO List
 
-Make a timeline for coal production and/or popup showing simple line graph of coal production over time.
+Make a timeline for coal production and/pr popup showing simple line graph of coal production over time.
 
 .
